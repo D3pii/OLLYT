@@ -1,0 +1,1 @@
+summarize a youtube video using [Ollama](https://github.com/jmorganca/ollama) and [langchain](https://github.com/langchain-ai/langchain)
